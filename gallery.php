@@ -55,7 +55,7 @@
 	 if($fr!=".." and $fr!="." and $fr!="Thumbs.db")
 	 {
         echo "<li>";
-            echo "<a href='photos/$fr' title='Utilize a flexibilidade dos seletores da jQuery e crie um grupo de imagens como desejar. $p.lightBox();'>";
+            echo "<a href='photos/$fr'>";
                 echo "<img src='photos/$fr' width='80' height='90' alt='' />";
             echo "</a>";
         echo "</li>";
