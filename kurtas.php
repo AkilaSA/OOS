@@ -11,7 +11,7 @@ $subcatg=$_REQUEST['subcatg'];
 
 
    $sel=mysql_query("select * from items where catg='$catg' and subcatg='$subcatg'");
-   echo"<form method='post'><table border='0' align='center'><tr>";
+   echo"<form method='post'><table border='0' align='center' color='#00CCFF'><tr>";
    $n=1;
     while($arr=mysql_fetch_array($sel))
    {

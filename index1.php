@@ -4,7 +4,6 @@
 <script type="text/javascript" src="jquery-1.2.6.min.js"></script>
 <style type="text/css">
 body {
-margin:;
 font-size:16px;
 color: #000000;
 font-family:Arial, Helvetica, sans-serif;

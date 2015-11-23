@@ -267,7 +267,7 @@ include("toy.php");
 <div class="cleaner"></div>
 </div>
 <div id="Bottom">
-<p class="down"><b>Copyright &copy; Fashion Shop, Design by:Mahesh Geethanjana</b></p>
+<p class="down"><b>&copy; University of Kelaniya - Statistics and Computer Science Department</b></p>
 
 </div>
 </div>

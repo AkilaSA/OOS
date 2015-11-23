@@ -10,7 +10,7 @@ if($_REQUEST['sub'])
  {
  if(mysql_query("insert into fdbk values('$name','$phone','$email','$subj','$mesg')"))
     {
-	  echo "<font face='Lucida Handwriting' color='red' size='+1'>Message sent successfully</font>";
+	  echo "<font face='col_' color='red' size='+1'>Message sent successfully</font>";
      }
  
   }
@@ -111,29 +111,29 @@ function vali()
 	}
 </script>
 </head>
-<div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">CONTACT US</font></h2></center></div>
+<div><br/><center><h2><font face="Matura MT Script Capitals" size="+1" color="#00CCFF">CONTACT US</font></h2></center></div>
 <div style="width:100%;float:left" >
 <div>
   <p><br/>
-      <font face="Lucida Handwriting" size="+1" color="#996699">E-mail:</font><font face="Lucida Handwriting" size="+1" color="#009966"> maheshgeethanjana1@gmail.com
-      </font><font face="Lucida Handwriting" size="+1" color="#66CC66"><br>
+      <font face="col_" size="+1" color="#996699">E-mail:</font><font face="col_" size="+1" color="#009966"> fashionshop@gmail.com
+      </font><font face="Matura MT Script Capitals" size="+1" color="#66CC66"><br>
       </font>
 	   <br>
-    <font color="#996699" size="+1" face="Lucida Handwriting">Address:    <font color="#009966">Fashion Shop outlet,Kandy Road,Kiribathgoda. </font></font></p>
-  <p> <font color="#996699" size="+1" face="Lucida Handwriting">Talk to us:</font><font color="#006633" size="+1" face="Lucida Handwriting"> 011 - 2218929 / 5</font><font size="+1"><br>
-    <font color="#996699" face="Lucida Handwriting">Fax us at:</font></font> <font color="#006633" size="+1" face="Lucida Handwriting">011 - 2625884 </font></p>
+    <font color="#996699" size="+1" face="col_">Address:    <font color="#009966">Fashion Shop outlet,Kandy Road,Kiribathgoda. </font></font></p>
+  <p> <font color="#996699" size="+1" face="col_">Talk to us:</font><font color="#006633" size="+1" face="col_"> 011 - 2218929 / 5</font><font size="+1"><br>
+    <font color="#996699" face="col_">Fax us at:</font></font> <font color="#006633" size="+1" face="col_">011 - 2625884 </font></p>
   <p>&nbsp;</p>
 </div>
 
 
 
 <div>
-<div style="width:25%;float:left"><br><br><center><fieldset style="width:25%;background-color:#CC99CC"><p><font size="+1" face="Comic Sans MS">We at Fashion Shop value your views and your concerns regarding our products and services. We would like to know how we can serve you better. If you have any queries please feel free to drop in your queries at customercarecell@fashionshop.in and we will be happy to assist you.</font></p>
+<div style="width:25%;float:left"><br><br><center><fieldset style="width:25%;background-color:#CC99CC"><p><font size="+1" face="Comic Sans MS">We at Fashion Shop value your views and your concerns regarding our products and services. We would like to know how we can serve you better. If you have any queries please feel free to drop in your queries at customercarecell@fashionshop.lk and we will be happy to assist you.</font></p>
 </fieldset>
 </center></div>&nbsp;&nbsp;
 <div style="width:50%;float:right">
 <div><br/><br>
-<center><h2 align="left"><font face="Lucida Handwriting" size="+1" color="#00CCFF">FeedBack Form</font></h2>
+<center><h2 align="left"><font face="col_" size="+1" color="#00CCFF">FeedBack Form</font></h2>
 </center></div>
 <center><fieldset style="width:25%;border-color:#006633;float:left">
 <br><br>

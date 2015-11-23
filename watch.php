@@ -1,6 +1,6 @@
 <html>
 
-<div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Watches</font></h2></center></div>
+<div><br/><center><h2><font face="Matura MT Script Capitals" size="+1" color="#00CCFF">Watches</font></h2></center></div>
 <div style="width:100%;float:left" >
 <?php
 

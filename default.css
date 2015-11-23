@@ -107,7 +107,7 @@ body
 
 #Name
 {
-    background: url("img/logo.gif") top left no-repeat;
+    background: url("img/homepagetop.png") top left no-repeat;
     background-position: 54px 50px;
     font-size: 34px;
   	padding-top: 48px;
@@ -299,7 +299,7 @@ body
 	width: 680px;
 	float: right;
 	clear: left;
-	background-color: #f5fdfd;
+	background-color: white;
 	margin-top: -12px;
 }
 
