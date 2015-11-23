@@ -5,15 +5,9 @@ error_reporting(1);
 ?>
 <title>Fashion Shop</title>
 
-<meta http-equiv="Content-language" content="cs">
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<meta name="description" content=" ">
-<meta name="keywords" content=" ">
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
-<meta name="author" content="Kl?ra Frolichov?, Sunlight webdesign">
-<meta name="Copyright" content="Kl?ra Frolichov?, Sunlight webdesign 2007">
-<meta name="design" content="Sunlight webdesign - http://www.sunlight.cz, info@sunlight.cz">
+
 <link rel="stylesheet" type="text/css" href="default.css" title="default">
 
 </head>
@@ -106,8 +100,7 @@ error_reporting(1);
 <a class="menu_item" href="index.php?catg=3 & subcatg=Girls Apparel"><span>Girls Apparel</span></a><br>
 <a class="menu_item" href="index.php?catg=3 & subcatg=Boys Apparel"><span>Boys Apparel</span></a><br>
 <a class="menu_item" href="index.php?catg=3 & subcatg=Kids Toys"><span>Kids Toys</span></a><br>
-<!--<a class="menu_item" href="?page=home"><span>Office Wear</span></a><br>
-<a class="menu_item" href="?page=home"><span>Artificial Jewellery</span></a><br>-->
+
 </div>
 </div>
 </div>

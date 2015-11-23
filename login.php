@@ -31,7 +31,7 @@ $er="id and password do not match";
 
 <br><br>
 <div style="width:70%;float:right" align="center" >
-<center><fieldset style="background:#CC99CC;width:50%">
+<center><fieldset style="background:#0e88af;width:50%">
 <br><br>
 <table width="244" border="0" align="center">
 <form method="post">
