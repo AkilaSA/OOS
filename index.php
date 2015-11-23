@@ -261,7 +261,7 @@ include("toy.php");
 <div class="cleaner"></div>
 </div>
 <div id="Bottom">
-<p class="down"><b>&copy; University of Kelaniya - Statistics and Computer Science Department</b></p>
+<p class="down"><center><b>&copy; University of Kelaniya - Statistics and Computer Science Department</b></center></p>
 
 </div>
 </div>
