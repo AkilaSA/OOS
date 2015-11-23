@@ -439,7 +439,7 @@
 		 / THIRD FUNCTION
 		 * getPageScroll() by quirksmode.com
 		 *
-		 * @return Array Return an array with x,y page scroll values.
+		 * @return Array Return an array with x,y page scroll values
 		 */
 		function ___getPageScroll() {
 			var xScroll, yScroll;

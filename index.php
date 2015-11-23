@@ -2,7 +2,6 @@
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cz"><head>
 <?php
 error_reporting(1);
- include("index1.php");
 ?>
 <title>Fashion Shop</title>
 
@@ -26,7 +25,7 @@ error_reporting(1);
 <div id="Container" style="border:groove;border-color:#00CCFF">
 <div id="Head">
 <div id="Head_left">
-<div id="Leaf_top"><img src="img/shop3.jpg" width="324" /></div>
+<div id="Leaf_top"></div>
 <div id="Leaf_bottom"> <a class="registration" href="index.php?con=11">REGISTRATION</a> <a class="log-in" href="index.php?con=12">LOG IN</a> </div>
 </div>
 <div id="Head_right">
@@ -97,7 +96,7 @@ error_reporting(1);
 <a class="menu_item" href="index.php?catg=2 & subcatg=Kurtas"><span>Kurtas</span></a><br>
 <a class="menu_item" href="index.php?catg=2 & subcatg=Sandals"><span>Sandals</span></a><br>
 <a class="menu_item" href="index.php?catg=2 & subcatg=Office Wear"><span>Office Wear</span></a><br>
-<a class="menu_item" href="index.php?catg=2 & subcatg=Artificial Jewellery"><span>Artificial Jewellery</span></a><br>
+<a class="menu_item" href="index.php?catg=2 & subcatg=Artificial Jewellery"><span>Jewellery</span></a><br>
 </div>
 
 <div class="menu_header_left"> <span class="menu_text">KIDS</span>
@@ -111,7 +110,7 @@ error_reporting(1);
 <a class="menu_item" href="?page=home"><span>Artificial Jewellery</span></a><br>-->
 </div>
 </div>
-<img src="usepics/4.jpg" width="228" height="183" /></div>
+</div>
 
 <div id="RightPart">
 <?php
@@ -264,6 +263,8 @@ include("toy.php");
 ?>
 
 </div>
+    
+
 <div class="cleaner"></div>
 </div>
 <div id="Bottom">

@@ -6,9 +6,10 @@ margin:0;
 
 body
 {
-	background-color: white;
+	background-color: grey;
 	font-family: arial;
 	font-size: 12px;
+       
 }
 
 #Inner
@@ -107,7 +108,7 @@ body
 
 #Name
 {
-    background: url("img/homepagetop.png") top left no-repeat;
+    background: url("img/logo.gif") top left no-repeat;
     background-position: 54px 50px;
     font-size: 34px;
   	padding-top: 48px;
@@ -176,7 +177,7 @@ body
 #LeftPart
 {
 	width: 215px;
-	background-color: #fbfdfe;
+	background-color: grey;
 	margin-top: -12px;
 	float: left;
 }
@@ -237,7 +238,7 @@ body
 
 .menu_item
 {
-	color: #8d9395;
+	color: white;
 	text-decoration: none;
 	padding-left: 20px;
 	background: url("img/arrow.gif") top left no-repeat;
@@ -247,7 +248,7 @@ body
 
 .menu_item2
 {
-	color: #8d9395;
+	color: white;
 	text-decoration: none;
 	padding-left: 50px;
 	font-size: 11px;
@@ -299,8 +300,8 @@ body
 	width: 680px;
 	float: right;
 	clear: left;
-	background-color: white;
-	margin-top: -12px;
+	background-color: grey;
+	margin-top: -8px;
 }
 
 *>#RightPart
@@ -493,7 +494,7 @@ h1
 {
 	font-size: 11px;
 	margin-left: 650px;
-	text-align: left;
+	text-align: center;
 	padding-bottom: 5px;
 }
 
@@ -512,3 +513,4 @@ h1
 {
     border: 0px;
 }
+

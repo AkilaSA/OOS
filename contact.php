@@ -96,7 +96,7 @@ function vali()
 	
    else if(document.f1.t4.value.search(subj)==-1)
     {
-	 alert("enter correct subject");
+	 alert("Enter correct subject");
 	 document.f1.t4.focus();
 	 return false;
 	 }
@@ -115,13 +115,12 @@ function vali()
 <div style="width:100%;float:left" >
 <div>
   <p><br/>
-      <font face="col_" size="+1" color="#996699">E-mail:</font><font face="col_" size="+1" color="#009966"> fashionshop@gmail.com
-      </font><font face="Matura MT Script Capitals" size="+1" color="#66CC66"><br>
+      <font face="Bell MT" size="+1" color="white">E-mail:</font><font face="Bell MT" size="+1" color="white"> fashionshop@gmail.com
       </font>
-	   <br>
-    <font color="#996699" size="+1" face="col_">Address:    <font color="#009966">Fashion Shop outlet,Kandy Road,Kiribathgoda. </font></font></p>
-  <p> <font color="#996699" size="+1" face="col_">Talk to us:</font><font color="#006633" size="+1" face="col_"> 011 - 2218929 / 5</font><font size="+1"><br>
-    <font color="#996699" face="col_">Fax us at:</font></font> <font color="#006633" size="+1" face="col_">011 - 2625884 </font></p>
+	  <br>
+    <font color="white" size="+1" face="Bell MT">Address:    <font color="white" >Fashion Shop outlet,Kandy Road,Kiribathgoda. </font></font></p>
+  <p> <font color="white" size="+1" face="Bell MT">Talk to us:</font><font color="white" size="+1" face="Bell MT"> 011 - 2218929 / 5</font><font size="+1"><br>
+    <font color="white" face="Bell MT">Fax us at:</font></font> <font color="white" size="+1" face="Bell MT">011 - 2625884 </font></p>
   <p>&nbsp;</p>
 </div>
 
@@ -140,29 +139,29 @@ function vali()
   <form method="post" name="f1" onSubmit="return vali()">
     <table width="288" border="0" align="center">
       <tr>
-        <td width="111"><font color="#996699" size="+1" face="Comic Sans MS">Name:</font></td>
+        <td width="111"><font color="white" size="+1" face="Bell MT">Name:</font></td>
         <td width="161"><label>
           <input name="t1" type="text" id="t1" onChange="return name()">
         </label></td>
       </tr>
       <tr>
-        <td><font color="#996699" size="+1" face="Comic Sans MS">Phone No: </font></td>
+        <td><font color="white" size="+1" face="Bell MT">Phone No: </font></td>
         <td><label>
         <input name="t2" type="text" id="t2" onChange="return phone()">
         </label></td>
       </tr>
       <tr>
-        <td><font color="#996699" size="+1" face="Comic Sans MS">Email:</font></td>
+        <td><font color="white" size="+1" face="Bell MT">Email:</font></td>
         <td><label>
         <input name="t3" type="text" id="t3" onChange="return email()">
         </label></td>
       </tr>
       <tr>
-        <td><font color="#996699" size="+1" face="Comic Sans MS">Sub:</font></td>
+        <td><font color="white" size="+1" face="Bell MT">Sub:</font></td>
         <td><input name="t4" type="text" id="t4" onChange="return subj()"></td>
       </tr>
       <tr>
-        <td><font color="#996699" size="+1" face="Comic Sans MS">Message:</font></td>
+        <td><font color="white" size="+1" face="Bell MT">Message:</font></td>
         <td><label>
           <textarea name="t5" id="text" ></textarea>
         </label></td>

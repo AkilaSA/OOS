@@ -21,9 +21,10 @@
    	<style type="text/css">
 	/* jQuery lightBox plugin - Gallery style */
 	#gallery {
-		background-color:#FFFFFF;
+		background-color:grey;
 		padding: 10px;
 		width: 520px;
+                
 	}
 	#gallery ul { list-style: none; }
 	#gallery ul li { display: inline; }
