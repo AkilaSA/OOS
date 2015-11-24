@@ -170,6 +170,7 @@ function vali()
 	  <td colspan="2"><center><input name="sub" type="submit" value="Submit"></center>	  </td>
 	  </tr> 
     </table>
+      
   
 
 </form>

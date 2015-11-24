@@ -13,7 +13,7 @@ $t=date("d-m-y h-i-s");
 
 if($_REQUEST['sub'])
   {
-    if(mysql_query("insert into items  values('$catg','$subcatg','$img','$itemno','$price','$desc','$t') "))
+    if(mysql_query("insert into items (catg,subcatg,img,itemno,price,info,dat) values('$catg','$subcatg','$img','$itemno','$price','$desc','$t')"))
 	   {
 	    move_uploaded_file($_FILES['file']['tmp_name'],"itempics/$itemno.jpg");
 		
