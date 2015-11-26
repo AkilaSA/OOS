@@ -47,7 +47,7 @@ $sel=mysql_query("select * from register where id='$id'");
 </div>
 <div style="width:25%;float:right">
 <br><br><br><br>
-<img src="usepics/7.jpg">
+<!--<img src="usepics/7.jpg">-->
 </div>
 <center><div style="width:70%;float:right" align="center">
 <center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Order Form</font></h2></center>

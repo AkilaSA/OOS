@@ -24,13 +24,13 @@ $er="id and password do not match";
 ?>
 <html>
 <div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Login your Account</font></h2></center></div>
-<div>
-<div style="width:25%;float:right">
+
+<!--<div style="width:25%;float:right">
 <img src="usepics/7.jpg">
-</div>
+</div>-->
 
 <br><br>
-<div style="width:70%;float:right" align="center" >
+<div>
 <center><fieldset style="background:#0e88af;width:50%">
 <br><br>
 <table width="244" border="0" align="center">
@@ -62,7 +62,6 @@ $er="id and password do not match";
 </fieldset></center>
 </div>
 
-</div>
 
 <!--<div style="width:100%;float:left"><center><b>Copyright&copy;Priya Gupta</b></center></div>
 </div>-->

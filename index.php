@@ -3,7 +3,7 @@
 <?php
 error_reporting(1);
 ?>
-<title>Fashion Shop</title>
+<title>Style Gartel</title>
 
 <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 <link rel="icon" href="favicon.ico" type="image/x-icon">

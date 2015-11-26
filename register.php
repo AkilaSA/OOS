@@ -208,13 +208,10 @@ function vali()
 
 <div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Register Yourself</font></h2></center></div>
 <div>
-<div style="width:25%;float:right">
-<br><br><br><br><br>
-<img src="usepics/7.jpg">
-</div>
+
 <br><br>
-<center><div style="width:70%;float:right" align="center">
-<fieldset style="background:#CC99CC;width:50%">
+<center><div>
+<fieldset style="background:#0e88af;width:50%">
 <br><br>
 <form method="post" name="f1" onSubmit="return vali()">
 <table width="366" border="0" align="center">

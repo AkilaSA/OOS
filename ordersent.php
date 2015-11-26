@@ -15,13 +15,13 @@ header("location:index.php");
 
 <html>
 <div>
-<div style="width:25%;float:right">
+<div>
 <br><h2 align="right"><a href="?log=out"><font color="#0099FF">LogOut</font></a></h2><br><br><br><br>
-<img src="usepics/7.jpg">
+<!--<img src="usepics/7.jpg">-->
 </div>
 <br><br>
-<center><div style="width:70%;float:right" align="center">
-<div><br/><center><h2><font face="Lucida Handwriting" size="+2" color="#00CCFF">ThankYou for Shopping With Us</font></h2></center>
+<center><div>
+<div><br/><center><h2><font face="Lucida Handwriting" size="+2" color="#00CCFF">Thank You for Shopping With Us</font></h2></center>
 </div>
 <br><br><br>
 <fieldset style="background:#CC99CC;width:50%">
