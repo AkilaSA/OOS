@@ -24,7 +24,7 @@ header("location:index.php");
 <div><br/><center><h2><font face="Lucida Handwriting" size="+2" color="#00CCFF">Thank You for Shopping With Us</font></h2></center>
 </div>
 <br><br><br>
-<fieldset style="background:#CC99CC;width:50%">
+<fieldset style="background:#0e88af;width:50%">
 <br><br>
 <font color="#660033" size="+1" face="Comic Sans MS"><b>Your order is sent successfully!!! </b></font><br/><br/>
 <font size="+1" face="Comic Sans MS" color="#660033" ><b>Your order no. is:</b><font color="#FF3366"><?php echo $_REQUEST['order'];?></font><br/><br/></font>

@@ -51,7 +51,7 @@ $sel=mysql_query("select * from register where id='$id'");
 </div>
 <center><div style="width:70%;float:right" align="center">
 <center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Order Form</font></h2></center>
-<fieldset style="background:#CC99CC;width:50%">
+<fieldset style="background:#0e88af;width:50%">
 <br><br>
 	<?php
 	$sel=mysql_query("select * from items where itemno='$itemno'");
