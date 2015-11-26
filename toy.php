@@ -2,7 +2,7 @@
 	
 	<html>
 
-<div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Kids Toys</font></h2></center></div>
+<div><br/><center><h2><font face="Elephant" size="+1" color="#00CCFF">Kids Toys</font></h2></center></div>
 <div style="width:100%;float:left" >
 <?php
 

@@ -1,18 +1,18 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html>
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <title>jQuery lightBox plugin</title>
 
 	<link rel="stylesheet" type="text/css" href="../style-projects-jquery.css" />    
     
-    <!-- Arquivos utilizados pelo jQuery lightBox plugin -->
+
     <script type="text/javascript" src="js/jquery.js"></script>
     <script type="text/javascript" src="js/jquery.lightbox-0.5.js"></script>
     <link rel="stylesheet" type="text/css" href="css/jquery.lightbox-0.5.css" media="screen" />
-    <!-- / fim dos arquivos utilizados pelo jQuery lightBox plugin -->
+
     
-    <!-- Ativando o jQuery lightBox plugin -->
+
     <script type="text/javascript">
     $(function() {
         $('#gallery a').lightBox();
@@ -43,7 +43,7 @@
 
 <body>
 <br />
-<center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Gallery</font></h2></center>
+<center><h2><font face="Elephant" size="+1" color="#00CCFF">GALLERY</font></h2></center>
 <br />
 <div id="gallery">
     <center>

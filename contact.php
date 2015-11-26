@@ -111,14 +111,14 @@ function vali()
 	}
 </script>
 </head>
-<div><br/><center><h2><font face="Matura MT Script Capitals" size="+1" color="#00CCFF">CONTACT US</font></h2></center></div>
+<div><br/><center><h2><font face="Elephant" size="+1" color="#00CCFF">CONTACT US</font></h2></center></div>
 <div style="width:100%;float:left" >
 <div>
   <p><br/>
-      <font face="Bell MT" size="+1" color="white">E-mail:</font><font face="Bell MT" size="+1" color="white"> fashionshop@gmail.com
+      <font face="Bell MT" size="+1" color="white">E-mail:</font><font face="Bell MT" size="+1" color="white"> contact@stylegartel.com
       </font>
 	  <br>
-    <font color="white" size="+1" face="Bell MT">Address:    <font color="white" >Fashion Shop outlet,Kandy Road,Kiribathgoda. </font></font></p>
+    <font color="white" size="+1" face="Bell MT">Address:    <font color="white" >Style Gartel outlet,Kandy Road,Kiribathgoda. </font></font></p>
   <p> <font color="white" size="+1" face="Bell MT">Talk to us:</font><font color="white" size="+1" face="Bell MT"> 011 - 2218929 / 5</font><font size="+1"><br>
     <font color="white" face="Bell MT">Fax us at:</font></font> <font color="white" size="+1" face="Bell MT">011 - 2625884 </font></p>
   <p>&nbsp;</p>
@@ -127,7 +127,7 @@ function vali()
 
 
 <div>
-<div style="width:25%;float:left"><br><br><center><fieldset style="width:25%;background-color:#CC99CC"><p><font size="+1" face="Comic Sans MS">We at Fashion Shop value your views and your concerns regarding our products and services. We would like to know how we can serve you better. If you have any queries please feel free to drop in your queries at customercarecell@fashionshop.lk and we will be happy to assist you.</font></p>
+<div style="width:25%;float:left"><br><br><center><fieldset style="width:25%;background-color:#0e88af"><p><font size="+1" face="Comic Sans MS">We at Style Gartel value your views and your concerns regarding our products and services. We would like to know how we can serve you better. If you have any queries please feel free to drop in your queries at customercarecell@stylegartel.com and we will be happy to assist you.</font></p>
 </fieldset>
 </center></div>&nbsp;&nbsp;
 <div style="width:50%;float:right">

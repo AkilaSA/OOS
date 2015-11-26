@@ -36,7 +36,7 @@ header("location:index.php");
 ?>
 <body>
 <div>
-<div><br/><center><h2><font face="Lucida Handwriting" size="+2" color="#00CCFF">Welcome 
+<div><br/><center><h2><font face="Elephant" size="+2" color="#00CCFF">Welcome 
 <?php
 $sel=mysql_query("select * from register where id='$id'");
   $arr=mysql_fetch_array($sel);
@@ -50,7 +50,7 @@ $sel=mysql_query("select * from register where id='$id'");
 <!--<img src="usepics/7.jpg">-->
 </div>
 <center><div style="width:70%;float:right" align="center">
-<center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Order Form</font></h2></center>
+<center><h2><font face="Elephant" size="+1" color="#00CCFF">Order Form</font></h2></center>
 <fieldset style="background:#0e88af;width:50%">
 <br><br>
 	<?php
@@ -109,12 +109,12 @@ $sel=mysql_query("select * from register where id='$id'");
     <td><div align="center"><font size="+1" face="Comic Sans MS"><strong>Bank:</strong></font></div></td>
     <td><label>
       <select name="sel2" id="sel2">
-        <option value="SBBJ">SBBJ</option>
-        <option value="SBI" selected>SBI</option>
-        <option value="ICICI">ICICI</option>
-        <option value="HDFC">HDFC</option>
-        <option value="PNB">PNB</option>
-        <option value="Axis Bank"> Axis Bank</option>
+        <option value="BOC">BOC</option>
+        <option value="HNB" selected>HNB</option>
+        <option value="NTB">NTB</option>
+        <option value="HSBC">HSBC</option>
+        <option value="Peoples Bank">Peoples Bank</option>
+        <option value="Pan Asia"> Pan Asia</option>
       </select>
     </label></td>
   </tr>

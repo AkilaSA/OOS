@@ -23,7 +23,7 @@ $er="id and password do not match";
 }
 ?>
 <html>
-<div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Login your Account</font></h2></center></div>
+<div><br/><center><h2><font face="Elephant" size="+1" color="#00CCFF">Login your Account</font></h2></center></div>
 
 <!--<div style="width:25%;float:right">
 <img src="usepics/7.jpg">

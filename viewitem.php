@@ -7,7 +7,7 @@ $itemno=$_REQUEST['itemno'];
    {
    $i=$arr['itemno'];
       echo "<br><form method='post'>
-	  <center><h2><font face='Lucida Handwriting' size='+1' color='#CC99CC'>".$arr['desc']."</font></h2><br><br>
+	  <center><h2><font face='Elephant' size='+1' color='#CC99CC'>".$arr['desc']."</font></h2><br><br>
 	<fieldset style='width:80%'><table border='0' >";
   
    echo "<tr>

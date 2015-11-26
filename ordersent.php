@@ -21,7 +21,7 @@ header("location:index.php");
 </div>
 <br><br>
 <center><div>
-<div><br/><center><h2><font face="Lucida Handwriting" size="+2" color="#00CCFF">Thank You for Shopping With Us</font></h2></center>
+<div><br/><center><h2><font face="Elephant" size="+2" color="#00CCFF">Thank You for Shopping With Us</font></h2></center>
 </div>
 <br><br><br>
 <fieldset style="background:#0e88af;width:50%">

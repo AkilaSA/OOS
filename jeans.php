@@ -1,6 +1,6 @@
 <html>
 
-<div><br/><center><h2><font face="col_" size="+1" color="#00CCFF">Jeans</font></h2></center></div>
+<div><br/><center><h2><font face="Elephant" size="+1" color="#00CCFF">Jeans</font></h2></center></div>
 <div style="width:100%;float:left" >
 <?php
 

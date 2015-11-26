@@ -4,7 +4,7 @@
 
 <br><br>
 <center><div>
-<div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Welcome User</font></h2></center></div>
+<div><br/><center><h2><font face="Elephant" size="+1" color="#00CCFF">Welcome User</font></h2></center></div>
 <br><br><br>
 <fieldset style="background:#0e88af;width:50%">
 <br><br>

@@ -19,7 +19,7 @@ hr{
 }
 </style>
 </head>
-<div><br/><center><h2><font face="Matura MT Script Capitals" size="+1" color="#00CCFF">ABOUT US</font></h2></center></div>
+<div><br/><center><h2><font face="Elephant" size="+1" color="#00CCFF">ABOUT US</font></h2></center></div>
 <div style="width:100%;float:left">
 <div>
   <p><br/>
@@ -28,7 +28,7 @@ hr{
 	  <div>
 		<h1>Who We Are?</h1>
 		<hr>
-		<p>Fashion Shop was founded in 2004 in Kiribathgoda with a 7 member team. The first shop being a mere 300 square feet in the Kiribathgoda town. The founders of the company are: Mr.Nimal Fernando , Mr.Ashan Subasinghe, and Mr.A.C.M. Thirimanne. Today, Fashion shop has evolved into a household brand that boasts of 4 outlets island-wide.</p>
+		<p>Style Gartel was founded in 2004 in Kiribathgoda with a 7 member team. The first shop being a mere 300 square feet in the Kiribathgoda town. The founders of the company are: Mr.Nimal Fernando , Mr.Ashan Subasinghe, and Mr.A.C.M. Thirimanne. Today, Style Gartel has evolved into a household brand that boasts of 4 outlets island-wide.</p>
 		<br>
 		<h1>Our Mission</h1>
 		<hr>

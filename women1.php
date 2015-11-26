@@ -1,6 +1,6 @@
 <html>
 <body>
-<div><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">WOMEN'S APPAREL</font></h2></center></div>
+<div><center><h2><font face="Elephant" size="+1" color="#00CCFF">WOMEN'S APPAREL</font></h2></center></div>
 <div align="center">
 <a href="mdress.html"><img src="images/dress.jpg"></a>
 <a href="msuits.html"><img src="images/suits.jpg"></a>

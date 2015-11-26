@@ -206,7 +206,7 @@ function vali()
 <body>
 
 
-<div><br/><center><h2><font face="Lucida Handwriting" size="+1" color="#00CCFF">Register Yourself</font></h2></center></div>
+<div><br/><center><h2><font face="Elephant" size="+1" color="#00CCFF">Register Yourself</font></h2></center></div>
 <div>
 
 <br><br>
