@@ -6,7 +6,7 @@ margin:0;
 
 body
 {
-	background-color: grey;
+	background-color: black;
 	font-family: arial;
 	font-size: 12px;
        
@@ -32,7 +32,10 @@ body
 {
 	height: 212px;
 	width: 900px;
-	background: url("img/bac_logo.gif") top left repeat-x;
+	/*background: url("img/bac_logo.gif") top left repeat-x;*/
+        background: url("img/top_banner.png") center;
+        background-size: 800px 200px;
+        	background-repeat: no-repeat;
 }
 
 #Head_left
@@ -44,7 +47,7 @@ body
 
 #Leaf_top
 {
-    background: url("img/leaf.gif") top left no-repeat;
+    /*background: url("img/leaf.gif") top left no-repeat;*/
     height: 161px;
     width: 324px;
 	float: left;
@@ -52,7 +55,7 @@ body
 
 #Leaf_bottom
 {
-	background: url("img/leaf2.gif") top left no-repeat;
+	/*background: url("img/leaf2.gif") top left no-repeat;*/
     height: 51px;
 	float: left;
 	width: 324px;
@@ -132,7 +135,7 @@ body
 {
     height: 51px;
 	width: 576px;
-	background: url("img/bac_button.gif") top left repeat-x;
+	/*background: url("img/bac_button.gif") top left repeat-x;*/
 }
 
 #Top_menu a
@@ -152,7 +155,7 @@ body
 	text-decoration: underline;
 }
 
-#Top_menu .home
+/*#Top_menu .home
 {
     background: url("img/home.jpg") top left no-repeat;
 }
@@ -172,12 +175,12 @@ body
     background: url("img/orders.jpg") top left no-repeat;
 }
 
-
+*/
 
 #LeftPart
 {
 	width: 215px;
-	background-color: grey;
+	background-color: black;
 	margin-top: -12px;
 	float: left;
 }
@@ -201,7 +204,7 @@ body
 
 .menu_header_right
 {
-    background: url("img/ornament_menu.gif") top left no-repeat;
+    /*background: url("img/ornament_menu.gif") top left no-repeat;*/
 	height: 31px;
 	width: 46px;
 	float: right;
@@ -209,7 +212,7 @@ body
 
 .menu_header_left
 {
-    background: url("img/bac_menu.gif") top left repeat-x;
+    /*background: url("img/bac_menu.gif") top left repeat-x;*/
 	width: 169px;
 	height: 31px;
 	float: left;
@@ -241,7 +244,9 @@ body
 	color: white;
 	text-decoration: none;
 	padding-left: 20px;
-	background: url("img/arrow.gif") top left no-repeat;
+	/*background: url("img/arrow.gif") top left no-repeat;*/
+        background: url("img/arrow.png") top left no-repeat;
+        background-size: 14px 14px;
 	margin-left: 6px;
 	line-height: 18px;
 }

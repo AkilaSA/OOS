@@ -69,7 +69,8 @@ function vali()
 	
 </script>
 </head>
-<body background="usepics/p3.jpg">
+<!--<body background="usepics/p3.jpg">-->
+<body>
 
 <div><br><h1 align="center"><font face="Courier New, Courier, monospace">ADMINISTRATOR LOGIN</font></h1>
 </div>

@@ -1,5 +1,5 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="cz"><head>
+
+<html><head>
 <?php
 error_reporting(1);
 ?>
@@ -24,8 +24,7 @@ error_reporting(1);
 </div>
 <div id="Head_right">
 <div id="Logo">
-<div id="Name"><span class="blue">F</span><span>ashion</span>&nbsp;<span class="blue">S</span><span>hop</span> </div>
-<div id="Informations">Latest trends in Fashion</div>
+<div id="Name"></div>
 </div>
 <div id="Top_menu"> <a class="orders" href="index.php?con=3"><span>GALLERY</span></a>
 <a class="contact" href="index.php?con=1"><span>CONTACT</span></a>
@@ -38,35 +37,7 @@ error_reporting(1);
 <div id="LeftPart">
 <div id="Menu">
 <div id="Menu_header">
-<div class="menu_header_left"> <span class="menu_text"><font face="Georgia, Times New Roman, Times, serif">Search</font></span>
-</div>
-<div class="menu_header_right"> </div>
-<div id="Menu_content"> <!--<a class="menu_item" href="?page=home"><span>--><!-- Start of Page Search -->
 
-		
-		    <h5>&nbsp;</h5>
-			<form method="post">
-		    <input type="text" name="t1" value="search" onfocus="if(this.value=='search'){this.value='';}"onBlur="if(this.value==''){this.value='search';}"/>
-            <input name="sear" type="submit" class="button" id="sub" value="Go" />
-</form>
-<?php
-	if($_REQUEST['sear'])
-	  {
-	   $se=$_REQUEST['t1'];
-	   if($se!=NULL)
-	   {
-	   echo "<script>location.href='index.php?se=$se'</script>";
-	   }
-        }
-		?>
-		
-
-		  <h5>&nbsp;</h5>
-		  <!--</form>-->
-		
-
-		<!-- End of Page Search --></span></a><br>
-</div>
 <div class="menu_header_left"> <span class="menu_text">MEN</span>
 </div>
 <div class="menu_header_right"> </div>
